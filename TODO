@@ -1,0 +1,29 @@
+Fucking program the whole thing
+
+    1. So I think reddit scraper is good to go i just need to put that its own
+    class / file
+
+    2. instagram shit is probably fine, Just need to put it into its own class 
+    and give it its own account object
+    
+    3. I need to build the scheduler object
+        What it would probably look like.  
+
+        - Start up sequence
+            -logs into instagram accounts, SLOWLY, not all at once and avoid fully ip banned
+            -Creates schedule 
+        - I would want it to run at like 5:00 AM or something where firstly
+             1. schedules the scrapes for reddit. spaced evenly throughout day
+             2. Schedules the posts for each active account. ~15-30 posts
+
+
+
+    !--Implement instagram ffmpeg croping 
+
+    
+
+    Tiktok integration later
+
+    
+    decisions made:   
+        -Nobody fucking likes picture posts anymore, people just scroll through reels so we are only scraping videos
